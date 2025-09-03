@@ -1,0 +1,35 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: black;
+}
+body{
+    background-color:darksalmon ;
+}
+div{
+    background-color: coral ;
+    margin: 70px auto;
+    padding: 10px 15px;
+    width: 500px;
+    height: 550px;
+    box-sizing: border-box;
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    padding: 10px 30px;
+}
+h1{
+    text-align: center;
+    border: solid brown 10px;
+    border-radius: 30px;
+    padding: 20px;
+}
+img{
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    margin-left:10px;
+}
